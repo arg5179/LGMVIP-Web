@@ -5,7 +5,7 @@
 [https://arg5179.github.io/LGMVIP-WEB/ToDoList-App]
 
 ## Registration-form
-[https://arg5179.github.io/InternCrowd_inGAJCK7rn/Quiz-Website]
+[https://arg5179.github.io/LGMVIP-WEB/Registration-form]
 
 ## Calculator
 [https://arg5179.github.io/LGMVIP-WEB/Calculator]
